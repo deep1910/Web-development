@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello I'm <sup>1st</sup> deep <sub>in town</sub></h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis  <strong> ugit obcaecati itaque  </strong>  f, architecto aliquid quo accusamus quam, est tenetur,<em>oluptatibus culpa? Nam reiciendis incidunt quod </em> vquae iure officia dolor modi.</p>
+    <h1>copyright &copy;</h1>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="about.html">about</a></li>
+        <li> <ol>
+            <li>deep</li>
+            <li>pratik</li>
+            <li>gaurav</li>
+        <a href="#">contact</a></li>
+    </ul>
+    <ol>
+        <li>deep</li>
+        <li>pratik
+            <ul>
+                <li>hmtl</li>
+                <li>css</li>
+            </ul>
+        </li>
+        <li>gaurav</li>
+        </ol>
+
+        <table>
+            <tr>
+                <th>some info</th>
+                <th>some info</th>
+                <th>some info</th>
+            </tr>
+            <tr>
+                <td>deep</td>
+                <td>pratik</td>
+                <td>deep</td>
+            </tr>
+        </table>
+</body>
+</html>
